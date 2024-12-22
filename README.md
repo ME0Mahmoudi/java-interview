@@ -40,7 +40,7 @@ for more in-depth preparation.
 
 ### Opinion based questions
 
-Answers to such questions vary based on multiple factors (interviewer and interviewee's experience with Java, exposure to other languages, personal taste, etc). Thus, take the answers with pinch of salt, and make them your own before using them.
+Answers to such questions vary based on multiple factors (interviewer and interviewee's experience with Java, exposure to other languages, personal taste, etc). Thus, take the answers with a pinch of salt, and make them your own before using them.
 
 - What do you like about Java? [Answer](topics/opinion/myanswers.md#what-do-you-like-about-java)
 - What do you not like about Java? [Answer](topics/opinion/myanswers.md#what-do-you-not-like-about-java)
